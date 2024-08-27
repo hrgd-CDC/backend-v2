@@ -23,7 +23,7 @@ async function bootstrap() {
 
     const config = new DocumentBuilder()
       .setTitle('API')
-      .setDescription('개발을 위한 API 문서입니다.')
+      .setDescription('개발을 위한 API 문서입니다')
       .setVersion('1.0')
       .build();
 
